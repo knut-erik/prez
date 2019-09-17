@@ -9,14 +9,15 @@
 -> # 1997 - The Awakening <-
 ===
 
-		- Slackware 3.2 - 10 x 3,5" Floppy disks
+		- From OS/2 => Slackware 3.2 - 10 x 3,5" Floppy disks
         - `make` - for installing software
-        - Modifications to the Linux kernel
-        - GPL - General Public License
+        - Mod and build the Linux kernel
+        - GPL - General Public License & FSF.org
 
         - The _experience_ of neverending possibilities
         - Continuously _learning_ from a diverse community
         - Passion for outcompeting proprietary / no vendor lock-in
+        - The four freedoms - more than just code
 
 ---
 -> # The four essential freedoms <-
@@ -29,7 +30,7 @@
 4. The freedom to **distribute** copies of your modified versions to others.
 
 
-- The _Open Source_ movement in software began as a response to the limitations of proprietary code
+- 97/98 _Open Source_ movement - a response to the limitations of proprietary code
 - C-Suites / board rooms mixed _free_ with _gratis_
 - _"Free software"_ was seen as discouraging business adoption
 - The term _Open Source_ was coined (Christine Peterson - 1998)
