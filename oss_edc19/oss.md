@@ -66,7 +66,7 @@
 -> # HacktoberFEST - October! <-
 ===
 
-- Nevner participated in a open source project?
+- Never participated in a open source project?
 - Why not start with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and get a free t-shirt?
 
 
